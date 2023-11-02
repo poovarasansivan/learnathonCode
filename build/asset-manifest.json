@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.82e4444e.css",
-    "main.js": "/static/js/main.e9cb9147.js",
+    "main.js": "/static/js/main.fa7eb932.js",
     "static/media/logoN.jpeg": "/static/media/logoN.98581e51c8b47036ee30.jpeg",
     "static/media/Rules.pdf": "/static/media/Rules.845a77f4cf43645a83c7.pdf",
     "index.html": "/index.html",
     "main.82e4444e.css.map": "/static/css/main.82e4444e.css.map",
-    "main.e9cb9147.js.map": "/static/js/main.e9cb9147.js.map"
+    "main.fa7eb932.js.map": "/static/js/main.fa7eb932.js.map"
   },
   "entrypoints": [
     "static/css/main.82e4444e.css",
-    "static/js/main.e9cb9147.js"
+    "static/js/main.fa7eb932.js"
   ]
 }
